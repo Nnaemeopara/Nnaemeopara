@@ -1,4 +1,4 @@
-- 👋 ##Hi, I’m Nnaemeka Opara, amongst few other things, i'm a prospective Data Analyst
+- 👋 Hi, I’m Nnaemeka Opara, amongst few other things, i'm a prospective Data Analyst
 - 👀 I’m interested in Data Projects with special regards to Data Analytics
 - 🌱 I’m currently learning Data Analysis with Dahel Techies, a world renowned Tech training hub
 - 💞️ I’m looking to collaborate on Data Analytical projects with individuals, groups and Government for clearer perspectives of their projects
